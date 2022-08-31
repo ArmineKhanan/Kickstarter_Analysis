@@ -27,3 +27,7 @@ We'll be using Excel to organize, sort, and analyze crowdfunding data to determi
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
+Comparing success rates by month
+![This is an image](https://github.com/ArmineKhanan/kickstarter-analysis/blob/main/Success_Rate_by_Month.png)
+Adding some context
+![This is an image](https://github.com/ArmineKhanan/kickstarter-analysis/blob/main/Project_Outcomes_by_Category.png)
