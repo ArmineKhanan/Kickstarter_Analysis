@@ -29,8 +29,9 @@ Due to the exhaustive manner of materials I completed tasks mostly trouble free.
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-Late spring and summer months is the most favourable period for the theatrical projects to initiate. And May is the most popular one, so the competion during that month is going to be huge as well.
-If opting for December for the project start, one's chances of succeeding are pretty much equal to failing. Over the half of the compaigns launched that month went wrong: either failed or got canceled.
+First of all, late spring and summer months are the most favourable for the theatrical projects to be initiated. May is the most popular one, thus the competion during that month is going to be huge as well.
+
+Yet, if opting for December, one has almost the same chances to succeed as to fail. Over the half of the compaigns launched that month went wrong: either failed or got canceled. 
 
 - What can you conclude about the Outcomes based on Goals?
 
