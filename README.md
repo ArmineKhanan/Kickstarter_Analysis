@@ -1,12 +1,13 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Louise wants to start a crowdfunding campaign to help fund her play, 'Fever'.
-She's estimating a budget of over $10,000
+Louise wants to start a crowdfunding campaign to help fund her play, 'Fever', with the an estimated budget of over $10,000. 
 
 ### Purpose
-The purpose of the analysis is to help Louise plan her campaign and set it up for success.
-We'll be using Excel to organize, sort, and analyze crowdfunding data to determine whether there are specific factors that make a project's campaign successful.
+The purpose of the analysis is to help Louise plan her campaign and set it up for success. Particularly we will give data informed recommendations to Luise on:
+What dates are the most favourable for the theatrical project launch
+What is the most realistic target range for successful outcome
+
 
 ## Analysis and Challenges
 
