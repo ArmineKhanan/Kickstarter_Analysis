@@ -11,6 +11,7 @@ We'll be using Excel to organize, sort, and analyze crowdfunding data to determi
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+![This is an image](https://github.com/ArmineKhanan/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 ![This is an image](https://github.com/ArmineKhanan/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
