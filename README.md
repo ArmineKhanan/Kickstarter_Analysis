@@ -21,12 +21,16 @@ We'll be using Excel to organize, sort, and analyze crowdfunding data to determi
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-
+Late spring and summer months is the most favourable period for the theatrical projects to initiate. And May is the most popular one, so the competion is going to be huge that month.
+If opting for December when starting the project one's chances of succeeding are pretty much equal to failing. Over the half of the compains launced that month went wrong: either failed or got canceled.
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
+Geographical data -> would be nice to have states
+The description of the genre of plays: Tragedy. Heroic Drama. Comedy. Tragicomedy. etc.
 
 - What are some other possible tables and/or graphs that we could create?
+
 Comparing success rates by month
 ![This is an image](https://github.com/ArmineKhanan/kickstarter-analysis/blob/main/Success_Rate_by_Month.png)
 Adding some context
