@@ -1,20 +1,23 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Louise wants to start a crowdfunding campaign to help fund her play, 'Fever', with the an estimated budget of over $10,000. 
+Louise wants to start a crowdfunding campaign for her play, 'Fever'. The estimated budget of this theatrical project is over $10,000. In order to help Louise to make data informed decisions we are going to explore Kickstarter data. The sourse contains information on different fundraising compaigns initiated from 2009 to 2017 for divrse projects, including ones falling into the same category as ours, 'theatry'. One can also find the blurb text, the set target and the actual pledge for each compaign in the dataset.
 
 ### Purpose
-The purpose of the analysis is to help Louise plan her campaign and set it up for success. Particularly we will give data informed recommendations to Luise on:
-What dates are the most favourable for the theatrical project launch
-What is the most realistic target range for successful outcome
+We aim at deriving meaningful information from Kickstarter data to help Louise plan her campaign and set it up for success. Particularly we will give data informed recommendations to the on the following:
+* What dates are the most favourable for the theatrical project to launch
+* What is the most realistic target range for successful outcome
 
 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+The line chart below showcases the count of projects with different outcomes for each month of different years. It's aim is to reveal the seasonality pattern of project success, and March seems to stand out among other months. It's also worth mentioning that summer is active in terms of number of successful projects as well as aposed to the end of the year.
 ![This is an image](https://github.com/ArmineKhanan/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+*'live' campaigns are excluded
 
 ### Analysis of Outcomes Based on Goals
+The folowing visual illustrates the success of campaigns factored by the set goal. The humbler is the goal the more successful is the project. Yet, that should be noticed that success chances of "$10,000 to $14,999" range is almost the same as for "$15,000 to "19,999" range.
 ![This is an image](https://github.com/ArmineKhanan/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
@@ -25,17 +28,22 @@ Due to the exhaustive manner of materials I completed tasks mostly trouble free.
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-Late spring and summer months is the most favourable period for the theatrical projects to initiate. And May is the most popular one, so the competion is going to be huge that month.
-If opting for December when starting the project one's chances of succeeding are pretty much equal to failing. Over the half of the compains launced that month went wrong: either failed or got canceled.
+
+Late spring and summer months is the most favourable period for the theatrical projects to initiate. And May is the most popular one, so the competion during that month is going to be huge as well.
+If opting for December for the project start, one's chances of succeeding are pretty much equal to failing. Over the half of the compaigns launched that month went wrong: either failed or got canceled.
+
 - What can you conclude about the Outcomes based on Goals?
-10 000 to 20 000 range is good.
+
+Louise`s estimation for the budjet was roughly $10,000. Though, in case os nesessity they can go for a higher target, up to $20,000 as that is proved to be realistic as well.
+
 - What are some limitations of this dataset?
-Geographical data -> would be nice to have states
-The description of the genre of plays: Tragedy. Heroic Drama. Comedy. Tragicomedy. etc.
+
+It would be nice to have more detailed geographical data, e.g. states for the US. Also the description of the genre of plays (Tragedy. Heroic Drama. Comedy. Tragicomedy. etc.) could be helpful.
 
 - What are some other possible tables and/or graphs that we could create?
 
-Comparing success rates by month
+Comparing success rates by month would eliminate the influence of absolute numbers on the success estimation. The chart below proves that May is not just very popular in terms of launching campaigns, but also very favourable.
 ![This is an image](https://github.com/ArmineKhanan/kickstarter-analysis/blob/main/Success_Rate_by_Month.png)
-Adding some context
+Adding some context and looking at project success in other categories might hint what blurb text would work best.
 ![This is an image](https://github.com/ArmineKhanan/kickstarter-analysis/blob/main/Project_Outcomes_by_Category.png)
+The content analysis of name and blurbs of failed and successful campaigns may add value to the analysis as well. E.g. there are at least 3 other projects in the database containing the word 'fever.' It would be insightful to look into the success of that projects ...
