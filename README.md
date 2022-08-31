@@ -17,6 +17,9 @@ We'll be using Excel to organize, sort, and analyze crowdfunding data to determi
 ![This is an image](https://github.com/ArmineKhanan/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
+Due to the exhaustive manner of materials I completed tasks mostly trouble free. Though I got stuck two times: first when I had to the charts, and second time while working on the content markdown doc. For the first I inquired the internet. For the second one I booked Tutorial Session, and Khanya May helped me to overcome the difficulties I encountered. 
+
+
 
 ## Results
 
@@ -24,7 +27,7 @@ We'll be using Excel to organize, sort, and analyze crowdfunding data to determi
 Late spring and summer months is the most favourable period for the theatrical projects to initiate. And May is the most popular one, so the competion is going to be huge that month.
 If opting for December when starting the project one's chances of succeeding are pretty much equal to failing. Over the half of the compains launced that month went wrong: either failed or got canceled.
 - What can you conclude about the Outcomes based on Goals?
-
+10 000 to 20 000 range is good.
 - What are some limitations of this dataset?
 Geographical data -> would be nice to have states
 The description of the genre of plays: Tragedy. Heroic Drama. Comedy. Tragicomedy. etc.
