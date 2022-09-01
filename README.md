@@ -39,12 +39,12 @@ Louise`s estimation for the budjet was roughly $10,000. Though, in case os neses
 
 - What are some limitations of this dataset?
 
-It would be nice to have more detailed geographical data, e.g. states for the US. Also the description of the genre of plays (Tragedy. Heroic Drama. Comedy. Tragicomedy. etc.) could be helpful.
+foremost the data set was representative, complete and trust-worthy. If talking about limitations, it would be nice to have more detailed geographical data, e.g. states for the US. Withal, an extra field for the genres of theatrical plays (tragedy, heroic drama, comedy, tragicomedy. etc.) might enable useful isights.
 
 - What are some other possible tables and/or graphs that we could create?
 
-Comparing success rates by month would eliminate the influence of absolute numbers on the success estimation. The chart below proves that May is not just very popular in terms of launching campaigns, but also very favourable.
+Comparing success rates by month would eliminate the influence of absolute numbers on the success estimation. The chart below proves that May is not just th most popular in terms of launching campaigns, but also the most advantageous.
 ![This is an image](https://github.com/ArmineKhanan/kickstarter-analysis/blob/main/Success_Rate_by_Month.png)
-Adding some context and looking at project success in other categories might hint what blurb text would work best.
+Adding some context and looking at the project success patterns among other categories might hint what blurb text would work best, who are going to be competitors and many other aspects.
 ![This is an image](https://github.com/ArmineKhanan/kickstarter-analysis/blob/main/Project_Outcomes_by_Category.png)
 The content analysis of name and blurbs of failed and successful campaigns may add value to the analysis as well. E.g. there are at least 3 other projects in the database containing the word 'fever.' It would be insightful to look into the success of that projects ...
